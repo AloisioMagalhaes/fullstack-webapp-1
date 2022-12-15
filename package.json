@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-webapp-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"prettier --write .",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AloisioMagalhaes/fullstack-webapp-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AloisioMagalhaes/fullstack-webapp-1/issues"
+  },
+  "homepage": "https://github.com/AloisioMagalhaes/fullstack-webapp-1#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}

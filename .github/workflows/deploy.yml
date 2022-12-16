@@ -9,9 +9,7 @@ on:
 
 jobs:
   build_and_preview:
-    runs-on: ubuntu-latest
     steps:
-    - name: Use Node.js 18
       uses: actions/setup-node@v3
       with:
         node-version: 18
